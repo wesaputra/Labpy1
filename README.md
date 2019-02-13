@@ -9,21 +9,21 @@ Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman din
 
 Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa di antaranya adalah: 
 
- •	Linux/Unix
+   •	Linux/Unix
 
- •	Windows
+   •	Windows
 
- •	Mac OS X
+   •	Mac OS X
 
- •	Java Virtual Machine
+   •	Java Virtual Machine
 
- •	OS/2
+   •	OS/2
 
- •	Amiga
+   •	Amiga
 
- •	Palm
+   •	Palm
 
- •	Symbian (untuk produk-produk Nokia)
+   •	Symbian (untuk produk-produk Nokia)
 
 
 # Algoritma menentukan bilangan terbesar dari 3 bilangan.
@@ -47,9 +47,13 @@ Berikut Flowchart Menentukan Bilangan Terbesar
 ![flowchart](https://user-images.githubusercontent.com/46749030/52729450-ca568a80-2feb-11e9-8144-3d69cee80f7b.png)
 
   •	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
+  
   •	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
+  
   •	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
+  
   •	Kemudian Run
+
 
 # Contoh Program Menentukan Bilangan Terbesar Dari 3 Bilangan
 
@@ -69,7 +73,7 @@ Berikut Flowchart Menentukan Bilangan Terbesar
         
 ![full](https://user-images.githubusercontent.com/46749030/52729461-d04c6b80-2feb-11e9-9482-8bdbcb9b0dde.png)
 
-Urutan dan fungsi
+Urutan dan Fungsi
 
 1.	Ketikan Program print ("Menentukan Bilangan Terbesar Dari 3 Bilangan\n") fungsi print disini untuk menampilkan kata (Menentukan Bilangan Terbesar Dari 3 Bilangan) fungsi tanda petik 1 (“ ”) untuk menentukan tipe data.
 2.	Ketikan Program print ("Masukan bilangan yang di inginkan\n")
@@ -79,7 +83,7 @@ Urutan dan fungsi
 6.	Ketikan program if A > B > C : 
     print ("\nBilangan pertama adalah bilangan terbesar = %s" % A) Fungsi if (jika) disini untuk Keputusan
 7.	Ketikan program elif B > C :
-    print ("\nBilangan kedua adalah bilangan terbesar = %s" % B) fungsi Elif adalah ketika kondisi lainnya tidak tercapai maka jalankan program.
+    print ("\nBilangan kedua adalah bilangan terbesar = %s" % B) Fungsi Elif adalah ketika kondisi lainnya tidak tercapai maka jalankan program.
 8.	Ketikan Program else:
     print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C) Fungsi else menerima nilai jika pernyataan if yang di buat tidak memenuhi persyaratan.
 
