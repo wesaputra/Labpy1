@@ -8,18 +8,14 @@
 Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi. 
 
 Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa di antaranya adalah: 
-•	Linux/Unix
-•	Windows
-•	Mac OS X
-•	Java Virtual Machine
-•	OS/2
-•	Amiga
-•	Palm
-•	Symbian (untuk produk-produk Nokia)
-
-
-  Python didistribusikan dengan beberapa lisensi yang berbeda dari beberapa versi. Lihat sejarahnya di Python Copyright. Namun pada prinsipnya Python dapat diperoleh dan dipergunakan secara bebas, bahkan untuk kepentingan komersial. Lisensi Python tidak bertentangan baik menurut definisi Open Source maupun General Public License (GPL) 
-
+ •	Linux/Unix
+ •	Windows
+ •	Mac OS X
+ •	Java Virtual Machine
+ •	OS/2
+ •	Amiga
+ •	Palm
+ •	Symbian (untuk produk-produk Nokia)
 
 # Algoritma menentukan bilangan terbesar dari 3 bilangan.
 
@@ -41,10 +37,10 @@ Berikut Flowchart Menentukan Bilangan Terbesar
 
 ![flowchart](https://user-images.githubusercontent.com/46749030/52729450-ca568a80-2feb-11e9-8144-3d69cee80f7b.png)
 
- •	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
- •	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
- •	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
- •	Kemudian Run
+  •	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
+  •	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
+  •	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
+  •	Kemudian Run
 
 # Contoh Program Menentukan Bilangan Terbesar Dari 3 Bilangan
 
@@ -63,6 +59,21 @@ Berikut Flowchart Menentukan Bilangan Terbesar
         print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C)
         
 ![full](https://user-images.githubusercontent.com/46749030/52729461-d04c6b80-2feb-11e9-9482-8bdbcb9b0dde.png)
+
+Urutan dan fungsi
+
+1.	Ketikan Program print ("Menentukan Bilangan Terbesar Dari 3 Bilangan\n") fungsi print disini untuk menampilkan kata (Menentukan Bilangan Terbesar Dari 3 Bilangan) fungsi tanda petik 1 (“ ”) untuk menentukan tipe data.
+2.	Ketikan Program print ("Masukan bilangan yang di inginkan\n")
+3.	Ketikan Program A = int (input ("Masukan bilangan pertama : ")) fungsi int (integer) disini untuk menentukan inputan basis data angka (bilangan bulat)
+4.	Ketikan Program B = int (input ("Masukan bilangan kedua   : "))
+5.	Ketikan Program C = int (input ("Masukan bilangan ketiga  : "))
+6.	Ketikan program if A > B > C : 
+    print ("\nBilangan pertama adalah bilangan terbesar = %s" % A) Fungsi if (jika) disini untuk Keputusan
+7.	Ketikan program elif B > C :
+    print ("\nBilangan kedua adalah bilangan terbesar = %s" % B) fungsi Elif adalah ketika kondisi lainnya tidak tercapai maka jalankan program.
+8.	Ketikan Program else:
+    print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C) Fungsi else menerima nilai jika pernyataan if yang di buat tidak memenuhi persyaratan.
+
 
 # 1. Bilangan terbesar adalah bilangan pertama.
 
