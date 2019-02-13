@@ -75,17 +75,22 @@ Berikut Flowchart Menentukan Bilangan Terbesar
 
 Urutan dan Fungsi
 
-1.	Ketikan Program print ("Menentukan Bilangan Terbesar Dari 3 Bilangan\n") fungsi print disini untuk menampilkan kata (Menentukan Bilangan Terbesar Dari 3 Bilangan) fungsi tanda petik 1 (“ ”) untuk menentukan tipe data.
+1.	Ketikan Program print ("Menentukan Bilangan Terbesar Dari 3 Bilangan\n") fungsi *print* disini untuk menampilkan kata (Menentukan Bilangan Terbesar Dari 3 Bilangan) 
+    • Fungsi tanda petik *(“ ”)* untuk menentukan tipe data.
 2.	Ketikan Program print ("Masukan bilangan yang di inginkan\n")
-3.	Ketikan Program A = int (input ("Masukan bilangan pertama : ")) fungsi int (integer) disini untuk menentukan inputan basis data angka (bilangan bulat)
+3.	Ketikan Program A = int (input ("Masukan bilangan pertama : ")) 
+    • Fungsi *int (integer)* disini untuk menentukan inputan basis data angka (bilangan bulat)
 4.	Ketikan Program B = int (input ("Masukan bilangan kedua   : "))
 5.	Ketikan Program C = int (input ("Masukan bilangan ketiga  : "))
 6.	Ketikan program if A > B > C : 
-    print ("\nBilangan pertama adalah bilangan terbesar = %s" % A) Fungsi if (jika) disini untuk Keputusan
+    print ("\nBilangan pertama adalah bilangan terbesar = %s" % A) 
+    • Fungsi *if (jika)* disini untuk Keputusan
 7.	Ketikan program elif B > C :
-    print ("\nBilangan kedua adalah bilangan terbesar = %s" % B) Fungsi Elif adalah ketika kondisi lainnya tidak tercapai maka jalankan program.
+    print ("\nBilangan kedua adalah bilangan terbesar = %s" % B) 
+    • Fungsi *elif* adalah ketika kondisi lainnya tidak tercapai maka jalankan program.
 8.	Ketikan Program else:
-    print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C) Fungsi else menerima nilai jika pernyataan if yang di buat tidak memenuhi persyaratan.
+    print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C) 
+    • Fungsi *else* menerima nilai jika pernyataan if yang di buat tidak memenuhi persyaratan.
 
 
 # 1. Bilangan terbesar adalah bilangan pertama.
