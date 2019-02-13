@@ -8,14 +8,15 @@
 Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi. 
 
 Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa di antaranya adalah: 
-  •	Linux/Unix
-  •	Windows
-  •	Mac OS X
-  •	Java Virtual Machine
-  •	OS/2
-  •	Amiga
-  •	Palm
-  •	Symbian (untuk produk-produk Nokia)
+
+  •	 Linux/Unix
+  •	 Windows
+  •	 Mac OS X
+  •	 Java Virtual Machine
+  •	 OS/2
+  •	 Amiga
+  •	 Palm
+  •	 Symbian (untuk produk-produk Nokia)
 
   Python didistribusikan dengan beberapa lisensi yang berbeda dari beberapa versi. Lihat sejarahnya di Python Copyright. Namun pada prinsipnya Python dapat diperoleh dan dipergunakan secara bebas, bahkan untuk kepentingan komersial. Lisensi Python tidak bertentangan baik menurut definisi Open Source maupun General Public License (GPL) 
 
@@ -40,10 +41,10 @@ Berikut Flowchart Menentukan Bilangan Terbesar
 
 ![flowchart](https://user-images.githubusercontent.com/46749030/52729450-ca568a80-2feb-11e9-8144-3d69cee80f7b.png)
 
-•	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
-•	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
-•	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
-•	Kemudian Run
+ •	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
+ •	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
+ •	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
+ •	Kemudian Run
 
 # Contoh Program Menentukan Bilangan Terbesar Dari 3 Bilangan
 
@@ -77,8 +78,10 @@ Berikut Flowchart Menentukan Bilangan Terbesar
 
 
 
-Nama  : Wahyu Eka Saputra
-NIM   : 311810030
-Kelas : TI.18.B.1
+# Nama  : Wahyu Eka Saputra
+
+# NIM   : 311810030
+
+# Kelas : TI.18.B.1
 
 ![sekian](https://user-images.githubusercontent.com/46749030/52730276-89f80c00-2fed-11e9-99f8-6661f32c8c26.jpg)
