@@ -44,8 +44,8 @@ Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beber
 
 Berikut Flowchart Menentukan Bilangan Terbesar
 
-![flowchart](https://user-images.githubusercontent.com/46749030/52729450-ca568a80-2feb-11e9-8144-3d69cee80f7b.png)
-
+![flowchart](https://user-images.githubusercontent.com/46749030/52732426-beba9200-2ff2-11e9-9834-d233c830c816.png)
+ 
   •	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
   
   •	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
