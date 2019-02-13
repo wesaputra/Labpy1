@@ -8,14 +8,23 @@
 Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi. 
 
 Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa di antaranya adalah: 
+
  •	Linux/Unix
+
  •	Windows
+
  •	Mac OS X
+
  •	Java Virtual Machine
+
  •	OS/2
+
  •	Amiga
+
  •	Palm
+
  •	Symbian (untuk produk-produk Nokia)
+
 
 # Algoritma menentukan bilangan terbesar dari 3 bilangan.
 
