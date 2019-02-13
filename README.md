@@ -4,9 +4,8 @@
 
 ![python](https://user-images.githubusercontent.com/46749030/52730204-69c84d00-2fed-11e9-8b31-c7462fa63230.png)
   
-  Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode. Python diklaim sebagai bahasa yang menggabungkan kapabilitas, kemampuan, dengan sintaksis kode yang sangat jelas dan dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif. Python juga didukung oleh komunitas yang besar. 
-  
-  Python mendukung multi paradigma pemrograman, utamanya; namun tidak dibatasi; pada pemrograman berorientasi objek, pemrograman imperatif, dan pemrograman fungsional. Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis. Seperti halnya pada bahasa pemrograman dinamis lainnya, python umumnya digunakan sebagai bahasa skrip meski pada praktiknya penggunaan bahasa ini lebih luas mencakup konteks pemanfaatan yang umumnya tidak dilakukan dengan menggunakan bahasa skrip. Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi. 
+   Python adalah bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode. Python diklaim sebagai bahasa yang menggabungkan kapabilitas, kemampuan, dengan sintaksis kode yang sangat jelas dan dilengkapi dengan fungsionalitas pustaka standar yang besar serta komprehensif. Python juga didukung oleh komunitas yang besar. 
+Salah satu fitur yang tersedia pada python adalah sebagai bahasa pemrograman dinamis yang dilengkapi dengan manajemen memori otomatis.Python dapat digunakan untuk berbagai keperluan pengembangan perangkat lunak dan dapat berjalan di berbagai platform sistem operasi. 
 
 Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa di antaranya adalah: 
   •	Linux/Unix
@@ -19,6 +18,7 @@ Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beber
   •	Symbian (untuk produk-produk Nokia)
 
   Python didistribusikan dengan beberapa lisensi yang berbeda dari beberapa versi. Lihat sejarahnya di Python Copyright. Namun pada prinsipnya Python dapat diperoleh dan dipergunakan secara bebas, bahkan untuk kepentingan komersial. Lisensi Python tidak bertentangan baik menurut definisi Open Source maupun General Public License (GPL) 
+
 
 # Algoritma menentukan bilangan terbesar dari 3 bilangan.
 
@@ -33,20 +33,34 @@ Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beber
     7. Jika Bil2 > Bil1 dan Bil2 > Bil3 maka kerjakan langkah nomor 9, selain itu kerjakan langkah nomor 10
     8. Cetak "Bilangan terbesar adalah bilangan pertama"
     9. Cetak "Bilangan terbesar adalah bilangan kedua"
-   10. Cetak "Bilangan terbesar adalah bilangan ketiga"
-   11. Selesai
+    10. Cetak "Bilangan terbesar adalah bilangan ketiga"
+    11. Selesai
 
-Flowchart Menentukan Bilangan Terbesar
+Berikut Flowchart Menentukan Bilangan Terbesar
 
 ![flowchart](https://user-images.githubusercontent.com/46749030/52729450-ca568a80-2feb-11e9-8144-3d69cee80f7b.png)
 
-	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
-	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
-	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
-	Kemudian Run
+•	Gunakan statement if untuk A sebagai inisiasi Bilangan Pertama.
+•	Gunakan statement elif untuk B sebagai inisiasi Bilangan Kedua.
+•	Gunakan statement else untuk C sebagai inisiasi Bilangan Ketiga.
+•	Kemudian Run
 
 # Contoh Program Menentukan Bilangan Terbesar Dari 3 Bilangan
 
+    print ("Menentukan Bilangan Terbesar Dari 3 Bilangan\n")
+    print ("Masukan bilangan yang di inginkan\n")
+
+    A = int (input ("Masukan bilangan pertama : "))
+    B = int (input ("Masukan bilangan kedua   : "))
+    C = int (input ("Masukan bilangan ketiga  : "))
+
+    if A > B > C :
+        print ("\nBilangan pertama adalah bilangan terbesar = %s" % A)
+    elif B > C :
+        print ("\nBilangan kedua adalah bilangan terbesar = %s" % B)
+    else:
+        print ("\nBilangan ketiga adalah bilangan terbesar =%s" % C)
+        
 ![full](https://user-images.githubusercontent.com/46749030/52729461-d04c6b80-2feb-11e9-9482-8bdbcb9b0dde.png)
 
 # 1. Bilangan terbesar adalah bilangan pertama.
@@ -67,4 +81,4 @@ Nama  : Wahyu Eka Saputra
 NIM   : 311810030
 Kelas : TI.18.B.1
 
-![sekian](https://user-images.githubusercontent.com/46749030/52730276-89f80c00-2fed-
+![sekian](https://user-images.githubusercontent.com/46749030/52730276-89f80c00-2fed-11e9-99f8-6661f32c8c26.jpg)
